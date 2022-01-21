@@ -1,0 +1,25 @@
+.carousel-price{
+    color: #ff3081;
+    font-weight: 700;
+}
+.panda-bg-watch{
+    background-color: #ffa500;
+}
+.panda-bg-bag{
+    background-color: #da70d6;
+}
+.panda-bg-shoe{
+    background-color: #0000ff;
+}
+.categories img{
+    height: 100px;
+    width: 100px;
+}
+.panda-btn-buy{
+    background-image: linear-gradient(to bottom, #ff589B 0%, #ff4b92 100%);
+    font-weight: 700;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+}
