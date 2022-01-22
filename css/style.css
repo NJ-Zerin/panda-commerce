@@ -2,6 +2,9 @@
     color: #ff3081;
     font-weight: 700;
 }
+.panda-slide-rounded{
+    border-radius: 6px;
+}
 .panda-bg-watch{
     background-color: #ffa500;
 }
